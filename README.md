@@ -42,7 +42,7 @@ jamming-react-app (folder)
 
 ## Screenshot
 <p align="center">
-<a href="https://unwieldy-finger.surge.sh/"><img src="jamming.gif" alt="screenshot"></a>
+<a href="https://unwieldy-finger.surge.sh/"><img src="jamming.gif" alt="screenshot" width="720" height="620"></a>
 </p>
 
 
