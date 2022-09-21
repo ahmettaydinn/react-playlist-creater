@@ -1,4 +1,6 @@
-<a href='unwieldy-finger.surge.sh/'>Check the live version</a>
+#Live
+<a href='https://unwieldy-finger.surge.sh/'>Check the live version</a>
+<hr>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
